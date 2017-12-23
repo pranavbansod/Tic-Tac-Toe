@@ -1,0 +1,21 @@
+.container {
+  height: 350px;
+  border-color: black;
+}
+
+table {
+  text-align: center;
+  height: 300px;
+  width: 300px;
+
+  border-color: black;
+}
+
+td {
+  height: 100px;
+  width:100px;
+}
+
+h2 {
+  text-align:center;
+}
